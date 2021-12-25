@@ -1,6 +1,6 @@
 # 作业使用说明
 
-建议在使用前先简要浏览作业报告的!(PDF文档)[https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf]
+建议在使用前先简要浏览作业报告的![PDF文档](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf)
 
 ## 代码使用说明
 
@@ -21,4 +21,4 @@
 
 如想要修改可视化效果，建议下载本仓库中的文件并按照上述命令建立数据库。
 
-如仅查看效果，请下载导入数据之后的Power BI!(文档)[https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/main_import.pbix]
+如仅查看效果，请下载导入数据之后的Power BI![文档](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/main_import.pbix)
