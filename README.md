@@ -2,6 +2,8 @@
 
 建议在使用前先简要浏览作业报告的[PDF文档](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf)
 
+本报告Beamer请狠狠地戳右面来[查看](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf)
+
 ## 代码使用说明
 
 代码的顺序比较混乱，运行顺序：
@@ -13,9 +15,10 @@
 5. Customer_sta.sql
 6. RFM.sql
 7. RFM.py
-8. goods_and_suppliers.sql
+8. supp_rank.py
+9. goods_and_suppliers.sql
 
-如遇SQL Server报错，请分别运行各SQL命令。
+如遇SQL Server报错，请**分别**运行各SQL命令。
 
 ## 其他说明
 
