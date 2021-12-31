@@ -2,7 +2,7 @@
 
 建议在使用前先简要浏览作业报告的[PDF文档](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf)
 
-本报告Beamer请狠狠地戳右面来[查看](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Report.pdf)
+本报告Beamer请狠狠地戳右面来[查看](https://yan-blog.oss-cn-beijing.aliyuncs.com/Homework%20Files/SQL%20Business/Final%20Beamer.pdf)
 
 ## 代码使用说明
 
